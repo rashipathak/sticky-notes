@@ -1,6 +1,7 @@
 # Sticky Notes Webapp
 
-A sticky notes web-app based on React.
+A sticky notes web-app based on React. 
+https://stickynotes-webapp.netlify.app/
 
 ## Available Scripts
 
